@@ -28,7 +28,7 @@
         <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="fastapi-icon.svg" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Redux" width="65" height="65" />
         
-        
+   ![](https://raw.githubusercontent.com/Erfan-1379/Erfan-1379/main/out/github-snake-dark.svg)
 
   <h2>🎯 My Current Focus</h2>
 <!--   <ul>
