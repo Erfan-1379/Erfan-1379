@@ -17,16 +17,14 @@
     </p>
   </div>
     <div>
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="GitHub" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="JavaScript" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="fastapi-icon.svg" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Redux" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+
         
    ![](https://raw.githubusercontent.com/Erfan-1379/Erfan-1379/main/out/github-snake-dark.svg)
 
@@ -52,7 +50,7 @@
 
   <div align="center" style="margin-top: 30px">
     <h2>My Skills</h2>
-    <img src="https://skillicons.dev/icons?i=angular,css,discord,figma,github,git,gitlab,html,js,ts,jquery,nextjs,nodejs,nuxtjs,ps,pr,react,redux,stackoverflow,tailwind,vite,vscode,vue,windows,vercel,unreal,docker,py,cs,django" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,jquery,php,js,c,cs,discord,git,github,gitlab,linux,windows,ubuntu,docker,css,html,ts,jquery,nuxtjs,vue,ps,pr,stackoverflow,bootstrap,tailwind,pycharm,vscode,matlab" />
   </div>
 
   <div align="center" style="margin-top: 30px">
