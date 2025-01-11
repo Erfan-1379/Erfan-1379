@@ -52,7 +52,7 @@
 
   <div align="center" style="margin-top: 30px">
     <h2>My Skills</h2>
-    <img src="https://skillicons.dev/icons?i=angular,css,discord,figma,github,git,gitlab,html,js,ts,jquery,nextjs,nodejs,nuxtjs,ps,pr,react,redux,stackoverflow,tailwind,vite,vscode,vue,windows,vercel,unreal,remix,py,cs,blender" />
+    <img src="https://skillicons.dev/icons?i=angular,css,discord,figma,github,git,gitlab,html,js,ts,jquery,nextjs,nodejs,nuxtjs,ps,pr,react,redux,stackoverflow,tailwind,vite,vscode,vue,windows,vercel,unreal,docker,py,cs,django" />
   </div>
 
   <div align="center" style="margin-top: 30px">
